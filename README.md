@@ -1,6 +1,6 @@
 # FilterGenie
 
-Slide-n-Seek is an intelligent browser extension that transforms LinkedIn’s job search with a sleek interface to help you slide your applications into some inboxes. It consolidates key filters to make sure you don't have to apply them yourselves, be as specific as you can and Slide-n-Seek will help you find your dream job!
+FilterGenie is an intelligent browser extension that transforms LinkedIn’s job search with a sleek interface to help you slide your applications into some inboxes. It consolidates key filters to make sure you don't have to apply them yourselves, be as specific as you can and Slide-n-Seek will help you find your dream job!
 
 **Features:**  
 • **Chat Bot:**  Describe your dream job as vague or specific your want and we will decide your filters.
