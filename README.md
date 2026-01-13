@@ -1,8 +1,8 @@
-# FilterGenie
+# Filter-Genie
 
-FilterGenie is a browser extension that helps you kick off a more targeted LinkedIn job search from a simple popup. You type the kind of job you want, and FilterGenie uses the OpenAI API to suggest search filters and apply them on LinkedIn’s Jobs page.
+Filter-Genie is a browser extension that helps you kick off a more targeted LinkedIn job search from a simple popup. You type the kind of job you want, and Filter-Genie uses the OpenAI API to suggest search filters and apply them on LinkedIn’s Jobs page.
 
-> Formerly named **Slide-n-Seek** — this project has been renamed to **FilterGenie**.
+> Formerly named **Slide-n-Seek** — this project has been renamed to **Filter-Genie**.
 
 ---
 
@@ -17,7 +17,7 @@ FilterGenie is a browser extension that helps you kick off a more targeted Linke
 ## How it works (high level)
 
 1. You enter your desired role in the extension popup.
-2. FilterGenie sends that text to the OpenAI API.
+2. Filter-Genie sends that text to the OpenAI API.
 3. The extension interprets the response and applies the relevant filters/search actions on LinkedIn Jobs.
 
 ---
@@ -64,7 +64,7 @@ FilterGenie is a browser extension that helps you kick off a more targeted Linke
 
 6. **Use it**
    - Navigate to LinkedIn Jobs
-   - Click the FilterGenie icon
+   - Click the Filter-Genie icon
    - Type the job you want and run the action
 
 ---
@@ -81,4 +81,4 @@ FilterGenie is a browser extension that helps you kick off a more targeted Linke
 
 Built for **SparkHacks 2025**.
 
-FilterGenie — search smarter, apply faster.
+Filter-Genie — search smarter, apply faster.
